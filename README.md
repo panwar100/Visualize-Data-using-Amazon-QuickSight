@@ -22,15 +22,16 @@
 * Sign up for a free trial of the Enterprise edition if you don't have an account.
  ![6](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/ed42a0c7-52e1-4c22-934e-c9b7b7071db3)
 * Select Amazon S3 and tick the box for the S3 bucket you created.
-  ![7 1](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/e7197e5e-5895-43d5-91cd-95fc6761cc25)
-  ![8](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/d3dac0d9-9e2a-40cb-87f2-f9d8c9fa4fef)
+  ![7 1](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/eede5dd2-28e3-4b9a-b235-b5271aae3784)
+ ![8](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/298347c1-a6e1-4990-80b7-06e32d9b7d0f)
+  ![9](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/078dac68-08f1-490b-be31-abbdf334498b)
+  ![10](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/c7d4a0bc-9089-4732-bb74-7baa124a360a)
+  ![11](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/97ea75d2-7fb3-4431-97a8-039b6aad8db6)
 * Enter the link to your "manifest.json" file and connect to Quicksight.
-![9](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/2d45cd10-4161-4b27-a420-b0611b82b390)
-![10](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/c7d4a0bc-9089-4732-bb74-7baa124a360a)
-![11](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/97ea75d2-7fb3-4431-97a8-039b6aad8db6)
 ![12](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/56eef577-e48b-418a-92ea-f46faaac858c)
 ![13](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/4bd463cd-95ae-4e63-8549-2f0263dac884)
-* click visualize.
+* Click Visualize
+![13 1](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/893ac88a-89b1-4efa-8abe-8fac84d8f35e)
 * Select "interactive sheet" to start creating visualizations.
 ![14](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/4a6dcbea-8389-413b-8239-26b1f4563278)
 
