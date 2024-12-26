@@ -1,6 +1,7 @@
 # Visualize-Data-using-Amazon-QuickSight
-![0](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/0c7398ff-c31b-429c-8e38-6227e6ea0191)
 <p>In this project, you'll learn how to create visualizations from a large dataset using Amazon S3 and Amazon Quicksight. We'll be working with a dataset of 50 best-selling book on Amazon.com.</p>
+
+![0](https://github.com/panwar100/Visualize-Data-using-Amazon-QuickSight/assets/134361823/0c7398ff-c31b-429c-8e38-6227e6ea0191)
 
 ### Step 1:Download the Dataset
 * Download the "Amazon-Top-50-Bestselling-Books-2009-2019" CSV file and the "manifest.json" file.
